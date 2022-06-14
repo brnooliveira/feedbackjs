@@ -4,4 +4,4 @@
 
     2. SOLID's SLD concepts
 
-    3. Jest for unit testing
+    3. Jest for unit test
